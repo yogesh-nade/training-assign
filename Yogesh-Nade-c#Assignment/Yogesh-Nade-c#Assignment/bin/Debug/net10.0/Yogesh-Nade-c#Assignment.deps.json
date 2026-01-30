@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Yogesh-Nade-c#Assignment/1.0.0": {
+        "runtime": {
+          "Yogesh-Nade-c#Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yogesh-Nade-c#Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

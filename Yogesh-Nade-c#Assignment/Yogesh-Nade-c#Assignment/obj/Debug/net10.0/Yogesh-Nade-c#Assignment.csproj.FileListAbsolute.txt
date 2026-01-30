@@ -1,0 +1,28 @@
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.exe
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.deps.json
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.runtimeconfig.json
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.dll
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.pdb
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.AssemblyInfoInputs.cache
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.AssemblyInfo.cs
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.csproj.CoreCompileInputs.cache
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.dll
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\refint\Yogesh-Nade-c#Assignment.dll
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.pdb
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.genruntimeconfig.cache
+C:\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\ref\Yogesh-Nade-c#Assignment.dll
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.exe
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.deps.json
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.runtimeconfig.json
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.dll
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\bin\Debug\net10.0\Yogesh-Nade-c#Assignment.pdb
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.AssemblyInfoInputs.cache
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.AssemblyInfo.cs
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.csproj.CoreCompileInputs.cache
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.dll
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\refint\Yogesh-Nade-c#Assignment.dll
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.pdb
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\Yogesh-Nade-c#Assignment.genruntimeconfig.cache
+C:\Visual Code Traing\Yogesh-Nade-c#Assignment\Yogesh-Nade-c#Assignment\obj\Debug\net10.0\ref\Yogesh-Nade-c#Assignment.dll
