@@ -1,0 +1,24 @@
+<div class="container">
+  <h2>Weather Component - Assignment 6</h2>
+  
+  <h3>Selected Temperature: {{ selectedTemp }}°C</h3>
+  
+  <table border="1" cellpadding="10">
+    <thead>
+      <tr>
+        <th>Weather Type</th>
+        <th>Max Temp (°C)</th>
+        <th>Min Temp (°C)</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let weather of weathers">
+        <td>{{ weather.weathertype }}</td>
+        <td>{{ weather.maxTemp }}</td>
+        <td>{{ weather.minTemp }}</td>
+        <td><button (click)="selectMaxTemp(weather)">Select Max Temp</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

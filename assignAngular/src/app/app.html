@@ -1,0 +1,27 @@
+<div class="app-container">
+  <header>
+    <h1>{{ title() }}</h1>
+    <p>Angular & React Assignment Solutions</p>
+  </header>
+
+  <nav class="navbar">
+    <a routerLink="/number" routerLinkActive="active">1. Number</a>
+    <a routerLink="/country" routerLinkActive="active">2. Country</a>
+    <a routerLink="/medicine" routerLinkActive="active">3. Medicine</a>
+    <a routerLink="/source" routerLinkActive="active">4. Source/Destination</a>
+    <a routerLink="/promise-observable" routerLinkActive="active">5. Promise/Observable</a>
+    <a routerLink="/weather" routerLinkActive="active">6. Weather</a>
+    <a routerLink="/two-way-binding" routerLinkActive="active">7. Two-Way Binding</a>
+    <a routerLink="/increment-counter" routerLinkActive="active">8. Counter</a>
+    <a routerLink="/ng-style-class" routerLinkActive="active">9. NgStyle/NgClass</a>
+    <a routerLink="/medicine-info" routerLinkActive="active">10. Medicine Info</a>
+  </nav>
+
+  <main>
+    <router-outlet></router-outlet>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Angular Assignment</p>
+  </footer>
+</div>

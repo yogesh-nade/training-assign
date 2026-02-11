@@ -1,0 +1,24 @@
+<div class="container">
+  <h2>Medicine Info with Pipes - Assignment 10</h2>
+  
+  <table border="1" cellpadding="10">
+    <thead>
+      <tr>
+        <th>Name (Uppercase)</th>
+        <th>Expiry (mediumDate)</th>
+        <th>Expiry (longDate)</th>
+        <th>Expiry (MMM-dd-yyyy)</th>
+        <th>Price (INR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let medicine of medicines">
+        <td>{{ medicine.name | uppercase }}</td>
+        <td>{{ medicine.expiry | date:'mediumDate' }}</td>
+        <td>{{ medicine.expiry | date:'longDate' }}</td>
+        <td>{{ medicine.expiry | date:'MMM-dd-yyyy' }}</td>
+        <td>{{ medicine.price | currency:'INR':'symbol' }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

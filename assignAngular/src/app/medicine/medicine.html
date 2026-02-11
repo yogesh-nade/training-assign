@@ -1,0 +1,32 @@
+<div class="container">
+  <h2>Medicine List - Assignment 3</h2>
+  
+  <div class="filter-container">
+    <label for="categoryFilter">Filter by Category: </label>
+    <input 
+      type="text" 
+      id="categoryFilter" 
+      [(ngModel)]="categoryFilter" 
+      placeholder="Enter category (e.g., Painkiller)"
+    />
+  </div>
+
+  <table border="1" cellpadding="10">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Expiry Date</th>
+        <th>Price</th>
+        <th>Category</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let medicine of medicines | medicineFilter: categoryFilter">
+        <td>{{ medicine.name }}</td>
+        <td>{{ medicine.expiry | date:'dd/MM/yyyy' }}</td>
+        <td>{{ medicine.price }}</td>
+        <td>{{ medicine.category }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

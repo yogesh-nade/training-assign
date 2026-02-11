@@ -1,0 +1,11 @@
+<div class="container">
+  <h2>Two-Way Binding - Assignment 7</h2>
+  <div class="input-container">
+    <label for="userName">Enter User Name: </label>
+    <input type="text" id="userName" [(ngModel)]="userName" placeholder="Type your name" />
+  </div>
+  <div class="display-container">
+    <label>User Name: </label>
+    <span class="user-name">{{ userName }}</span>
+  </div>
+</div>

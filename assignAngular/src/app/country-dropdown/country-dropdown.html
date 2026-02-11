@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>Country Dropdown - Assignment 2</h2>
+  <div class="dropdown-container">
+    <label for="country">Select a Country: </label>
+    <select id="country" (change)="onCountryChange($event)">
+      <option value="">-- Select Country --</option>
+      <option *ngFor="let item of countries" [value]="item.capital">
+        {{ item.country }}
+      </option>
+    </select>
+  </div>
+  <h2 *ngIf="selectedCapital">Capital: {{ selectedCapital }}</h2>
+</div>

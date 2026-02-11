@@ -1,0 +1,17 @@
+<div class="container">
+  <h2>Promise & Observable - Assignment 5</h2>
+  
+  <button (click)="handleButtonClick()">Get Promise & Observable Values</button>
+  
+  <div class="results">
+    <div class="result-box" *ngIf="promiseValue !== null">
+      <h3>Promise Result:</h3>
+      <p>{{ promiseValue }}</p>
+    </div>
+    
+    <div class="result-box" *ngIf="observableValue !== null">
+      <h3>Observable Result:</h3>
+      <p>{{ observableValue }}</p>
+    </div>
+  </div>
+</div>

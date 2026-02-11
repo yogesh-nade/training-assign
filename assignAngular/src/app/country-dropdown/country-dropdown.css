@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+}
+
+.dropdown-container {
+  margin: 20px 0;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  min-width: 200px;
+}
+
+h2 {
+  color: #4CAF50;
+  margin-top: 20px;
+}
