@@ -1,0 +1,6 @@
+<div class="list-group mt-4">
+    @for(c of cities(); track c)
+    {
+        <a [routerLink]="['/customers', c]" class="list-group-item list-group-item-action">{{c}}</a>
+    }
+</div>

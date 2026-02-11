@@ -1,0 +1,22 @@
+<div class="row">
+    <div class="col-md-7 mt-5">
+        <label class="form-label">Id</label>
+        <input  [(ngModel)]="cust._id" name="_id" class="form-control" >
+
+        <label class="form-label">Name</label>
+        <input  [(ngModel)]="cust.name" name="name" class="form-control" >  
+
+        <label class="form-label">Email</label>
+        <input  [(ngModel)]="cust.email" name="email" class="form-control" >    
+        <label class="form-label">City</label>
+        <input  [(ngModel)]="cust.city" name="city" class="form-control" >
+        <label class="form-label">Phone</label>
+        <input  [(ngModel)]="cust.phone" name="phone" class="form-control" >
+
+        <button class="btn btn-primary mt-3" (click)="addCustomer()">Add Customer</button>
+
+</div>
+<div>
+            <span style="color:red">{{message()}}</span>
+</div>
+        

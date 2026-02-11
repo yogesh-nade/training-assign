@@ -1,0 +1,23 @@
+<div class="row">
+    <span style="color:red">{{message()}}</span>
+    <br/>
+    <br/>
+    <a  routerLink="/addupdate" class="btn btn-primary">Add Customer</a>
+</div>
+
+<div class="row">
+    <table class="table table-bordered mt-5">
+        <tbody>
+            @for(c of customers();track c._id){
+                <tr>
+                    <td>{{c._id}}</td>
+                    <td>{{c.name}}</td>
+                    <td>{{c.email}}</td>
+                    <td>{{c.city}}</td>
+                    <td>{{c.phone}}</td>
+                    <td><button class="btn btn-danger" (click)="remove(c._id!)">Delete</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
